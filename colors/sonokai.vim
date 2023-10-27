@@ -2591,10 +2591,10 @@ highlight! link vimSet BlueItalic
 highlight! link vimSetSep Grey
 " syn_end }}}
 " syn_begin: make {{{
-highlight! link makeIdent Purple
-highlight! link makeSpecTarget BlueItalic
-highlight! link makeTarget Orange
-highlight! link makeCommands Red
+highlight! link makeIdent BlueItalic
+highlight! link makeSpecTarget Orange
+highlight! link makeTarget Green
+highlight! link makeCommands Purple
 " syn_end }}}
 " syn_begin: cmake {{{
 highlight! link cmakeCommand Red
